@@ -17,5 +17,8 @@
 ![image](https://github.com/user-attachments/assets/8aef4fce-d2b1-43b6-a3b2-eb7597736a61)
 # Berikut hasil praktikum dengan menggunakan twitter bootstrap
 ![image](https://github.com/user-attachments/assets/b07ba4d6-471f-47b1-b519-431bc6749878)
+# validasi html
+![image](https://github.com/user-attachments/assets/94014dd1-d9c6-4db1-b145-470a429cf0d3)
+
 
 
