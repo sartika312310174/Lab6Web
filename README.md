@@ -15,3 +15,6 @@
 # Langkah 2: Membuat file index.html dan memanggil file bootstrap yang sudah diunduh.
 ![image](https://github.com/user-attachments/assets/d35ef252-e72f-4750-b4ca-104e119201e6)
 ![image](https://github.com/user-attachments/assets/8aef4fce-d2b1-43b6-a3b2-eb7597736a61)
+# Berikut hasil praktikum dengan menggunakan twitter bootstrap
+![image](https://github.com/user-attachments/assets/ccf9a93b-d258-4557-a72c-47418d7f93cf)
+
